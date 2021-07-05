@@ -19,11 +19,9 @@ I made three diagrams of this robot:
 </br>
 </br>
 </br>
-  
   <p align="center"><b>Use case diagram</b><p>
 
-
-![usecase diagram](https://user-images.githubusercontent.com/85819577/124344283-ecabcb80-dbd9-11eb-8793-6986d927850e.png)
+![usecase](https://user-images.githubusercontent.com/85819577/124423180-4f819c00-dd6d-11eb-981f-15e5807a7cc0.jpg)
 </br>
 </br>
 </br>
