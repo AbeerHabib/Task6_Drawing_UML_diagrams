@@ -1,21 +1,15 @@
 # UML_diagrams_for_reception_robot
 
-<p align="center">
-In these weeks, we are working on another kind of robots, which is <b>the reception robot/the customer service robot</b>.
-</br>
+<p align="justify">
+During these weeks, we are focusing on a different type of the robot project, specifically the reception/customer service robot. The primary function of this robot is to interact with users, welcoming them through hand movements and facial expressions. Additionally, the robot incorporates a chatbot feature to engage in conversations with users. Lastly, the robot concludes the interaction by requesting the user to evaluate its performance.</br>
 </br>
   
   ![reception robot](https://user-images.githubusercontent.com/85819577/124344581-bff8b380-dbdb-11eb-9663-6938d5731b67.png)
 </br>
 </br>
 </br>
-</br>
 
-The robot interacts with the user so that it welcomes him by moving his hands and interacting through his face, after that the user will chatting with the robot (chatbot), at the end the robot asks the user to evaluate his performance.
-
-
-I made three diagrams of this robot:
-
+To illustrate the design and functionality of this robot, I’ve created three diagrams:
 </br>
 </br>
 </br>
